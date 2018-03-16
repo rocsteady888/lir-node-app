@@ -44,3 +44,6 @@ node liri.js movie-this
 * Actors
 * Rotten Tomatoes Rating
 * Rotten Tomatoes URL
+
+## Future Development 
+I'm planning on adding a database to store past searches instead of using a txt file.  
