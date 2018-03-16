@@ -25,22 +25,22 @@ Returns your 20 most recent tweets.
 node liri.js spotify-this-song
 ```
 shows the following information about the song in the terminal
-	* artist(s)
-	* song name
-	* preview link of the song from spotify
-	* album that the song is a part of
+* artist(s)
+* song name
+* preview link of the song from spotify
+* album that the song is a part of
 
 ### OMDB
 ```
 node liri.js movie-this
 ```
  This would output the following information to the terminal:
-	* Title
-	* Year
-	* IMDB Rating
-	* Country
-	* Language
-	* Plot
-	* Actors
-	* Rotten Tomatoes Rating
-	* Rotten Tomatoes URL
+* Title
+* Year
+* IMDB Rating
+* Country
+* Language
+* Plot
+* Actors
+* Rotten Tomatoes Rating
+* Rotten Tomatoes URL
