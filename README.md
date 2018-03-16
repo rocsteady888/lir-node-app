@@ -12,7 +12,7 @@ In order to use this app you would need to visit twitter and spotify to obtain y
    
    * [Spotify](https://www.npmjs.com/package/node-spotify-api)
 
-   * You'll use Request to grab data from the [OMDB API](http://www.omdbapi.com).
+   * Use Request to grab data from the [OMDB API](http://www.omdbapi.com).
 
 ### Twitter
 ```
@@ -24,7 +24,7 @@ Returns your 20 most recent tweets.
 ```
 node liri.js spotify-this-song
 ```
-shows the following information about the song in the terminal
+Shows the following information about the song in the terminal
 * artist(s)
 * song name
 * preview link of the song from spotify
