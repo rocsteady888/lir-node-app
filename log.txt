@@ -1,0 +1,37 @@
+spotify-this-song, Desperado
+The artist is Rihanna
+The name of the track is Desperado
+The track appears on the album ANTI
+Preview the song: null
+spotify-this-song, Yellow Submarine
+The artist is The Beatles
+The name of the track is Yellow Submarine - Remastered
+The track appears on the album Revolver (Remastered)
+Preview the song: null
+
+movie-this, The Matrix
+The name of the movie is The Matrix
+The Matrix was released 31 Mar 1999
+The Matrix has an IMDB rating of 8.7
+The Matrix has a Rotten Tomatoes rating of 87%
+The Matrix was produced in USA
+The Matrix is in the English language
+The plot of The Matrix is as follows: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+The Matrix stars the actors Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+
+spotify-this-song, Yellow Submarine
+The artist is The Beatles
+The name of the track is Yellow Submarine - Remastered
+The track appears on the album Revolver (Remastered)
+Preview the song: null
+
+movie-this, The Matrix
+The name of the movie is The Matrix
+The Matrix was released 31 Mar 1999
+The Matrix has an IMDB rating of 8.7
+The Matrix has a Rotten Tomatoes rating of 87%
+The Matrix was produced in USA
+The Matrix is in the English language
+The plot of The Matrix is as follows: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+The Matrix stars the actors Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+
